@@ -6,7 +6,8 @@
 - Tạo xong infra
 - Language: Typescript 
 
-# Task: day 1
+# Task
+## Day 1
 - Dương: S3 + cloudfront + lambda edge function
 - Quân: Cognito - client sdk: login, register.
 - Tuấn Anh: API gateways: http gateway + rest api gateway => chọn 1 trong 2
